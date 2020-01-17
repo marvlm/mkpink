@@ -7,7 +7,7 @@ fields:
   label: layout
   config:
     required: true
-  default: default
+  default: page
 - type: text
   name: title
   label: title
