@@ -10,7 +10,7 @@ menu:
 - name: Blog
   link: blog/
 - name: Portfolio
-  link: "/portfolio/"
+  link: portfolio/
 - name: Contact
   link: "/contact/"
 google-analytics: 
