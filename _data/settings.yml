@@ -8,7 +8,7 @@ menu:
 - name: About
   link: about
 - name: Blog
-  link: blog/
+  link: blog
 - name: Portfolio
   link: portfolio/
 - name: Contact
