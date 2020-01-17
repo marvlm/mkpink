@@ -3,7 +3,7 @@ layout: post
 date: 2020-01-17 11:55:06 -0500
 image: "/assets/images/portfolio/item-2.png"
 author: Lineth López
-title: Gameboy test
+title: Gameboy un clásico en el olvido
 tags: ''
 
 ---
